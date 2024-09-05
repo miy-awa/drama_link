@@ -1,0 +1,10 @@
+.banner {
+    width: 100%;
+    max-width: 250px; /* Sets the maximum width to 280px */
+    max-height: 195px; /* Sets the maximum height to 198px */
+    object-fit: cover; /* Ensures the image covers the banner area */
+    margin-bottom: 10px; /* Space below the banner */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
